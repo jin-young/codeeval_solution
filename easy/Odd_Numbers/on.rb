@@ -1,0 +1,1 @@
+1.upto(99) { |v| puts v if v % 2 == 1 }
